@@ -9,9 +9,8 @@
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
-"sites":[
-{"key":"徐占杰","name":"TV(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},    
-{"key":"量子资源","name":"🥒量子资源(徐)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+"sites":[  
+{"key":"量子资源","name":"🥒夏木TV(徐先生提供QQ:45658269)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"🥒光速资源(徐)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/555电影.json"},
 {"key":"csp_biubiu_4K电影网","name":"🥒4K电影网(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/4K电影网.json"},
@@ -19,12 +18,9 @@
 {"key":"csp_xbb_全能影视","name":"🥒全能影视（徐）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://xu211a.github.io/全能影视.json"},
 {"key":"csp_xml_飞速资源","name":"🥒飞速资源（徐）","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_百度资源","name":"🥒百度资源（徐）","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_biubiu_COKEMV","name":"🥒夏木TV(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/COKEMV.json"},
 {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"},
 {"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_蓝光电影","name":"🥒蓝光高清（徐）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/蓝光电影.json"},
-
 
 #
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
