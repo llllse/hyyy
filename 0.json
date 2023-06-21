@@ -10,8 +10,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[  
-{"key":"量子资源","name":"🥒夏木TV(徐先生提供QQ:45658269)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"🥒光速资源(徐)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"量子资源","name":"🥒量子资源(徐)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/555电影.json"},
 {"key":"csp_biubiu_4K电影网","name":"🥒4K电影网(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/4K电影网.json"},
 {"key":"csp_xbb_韩剧在线","name":"🥒韩剧在线（徐）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/韩剧在线.json"},
