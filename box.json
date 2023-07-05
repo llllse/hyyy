@@ -1,7 +1,7 @@
 {
-    "菜妮丝": "https://cainisi.cf",
-    "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://tvbox.cainisi.cf/jar/fty0705.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
+    "接口地址": "https://xu211a.github.io/box.json",
+    "版本信息": "夏木TV提供2023版",
+    "spider": "https://xu211a.github.io/APPBOX.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
     "wallpaper": "https://tvbox.cainisi.cf/壁纸",
     "sites": [
         {
@@ -13,7 +13,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+            "ext": "https://xu211a.github.io/360影视.json"
         },
         {
             "key": "豆瓣推荐",
@@ -24,7 +24,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/js/豆瓣.js"
+            "ext": "https://xu211a.github.io/豆瓣.js"
         },
         {
             "key": "爱迪",
@@ -100,17 +100,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_FanYY",
-            "name": "玩偶┃云盘",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-        },
-        {
             "key": "明明",
             "name": "明明┃影视",
             "type": 3,
@@ -129,7 +118,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
+            "ext": "https://xu211a.github.io/快看影视.json"
         },
         {
             "key": "Kuaikan",
@@ -161,7 +150,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
+            "ext": "https://xu211a.github.io/乐猪TV.json"
         },
         {
             "key": "饭团影视",
@@ -183,7 +172,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/555电影.js"
+            "ext": "https://xu211a.github.io/555电影.js"
         },
         {
             "key": "csp_Auete",
@@ -343,7 +332,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/厂长资源.js"
+            "ext": "https://xu211a.github.io/厂长资源.js"
         },
         {
             "key": "农民影视",
@@ -354,7 +343,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/农民影视.json"
+            "ext": "https://xu211a.github.io/农民影视.json"
         },
         {
             "key": "VOFLIX",
@@ -844,133 +833,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://tvbox.cainisi.cf/json/XYQBiu/310直播.json"
-        },
-        {
-            "key": "七夜",
-            "name": "七夜┃云盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "PanSearch",
-            "name": "Search┃云盘",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Yisou",
-            "name": "易搜┃云盘",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Zhaozy",
-            "name": "找资源┃云盘",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
-        },
-        {
-            "key": "csp_search_Upyunso",
-            "name": "Up搜┃云盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Alips",
-            "name": "盘搜┃云盘",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送┃磁力",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "公告",
-            "name": "——————————",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明1",
-            "name": "菜妮丝",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明2",
-            "name": "https://cainisi.cf",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明3",
-            "name": "免费接口更新维护",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明4",
-            "name": "请勿相信视频中任何广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
         }
     ],
     "parses": [
