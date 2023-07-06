@@ -1,11 +1,11 @@
 {
-    "接口地址": "https://xu211a.github.io/box.json",
-    "版本信息": "夏木TV提供2023版",
+  //  "接口地址": "https://xu211a.github.io/box.json",
+
     "spider": "https://xu211a.github.io/APPBOX.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
     "wallpaper": "https://tvbox.cainisi.cf/壁纸",
     "sites": [
         {
-            "key": "360影视",
+            "key": "夏木TV",
             "name": "徐┃夏木TV",
             "type": 3,
             "api": "csp_XBPQ",
