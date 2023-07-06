@@ -145,16 +145,6 @@
             "ext": "https://xu211a.github.io/555电影.js"
         },
         {
-            "key": "csp_Auete",
-            "name": "Auete┃影视",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "酷云",
             "name": "酷云┃影视",
             "type": 3,
@@ -168,17 +158,6 @@
                 "4K电影",
                 "4K电视剧"
             ]
-        },
-        {
-            "key": "狐狸",
-            "name": "狐狸┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
         },
         {
             "key": "鸭鸭",
@@ -231,46 +210,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.ysgc.vip"
-        },
-        {
-            "key": "Dm84",
-            "name": "动漫┃巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ying",
-            "name": "樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ysj",
-            "name": "异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "COKEMV",
@@ -356,7 +295,7 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
+            "name": "XZJTV",
             "type": 3,
             "url": "Web"
         },
