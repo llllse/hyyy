@@ -284,7 +284,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://xu211a.github.io/剧白白.json"
-        }
+        },
 {"key":"徐占杰","name":"夏木TV(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},    
