@@ -11,10 +11,10 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"徐占杰","name":"夏木TV(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
+{"key":"夏木TV","name":"夏木TV(徐)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},     
+{"key":"天空","name":"天空资源(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},    
-    {"key":"光速资源","name":"🥒光速资源(徐)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"光速资源","name":"🥒光速资源(徐)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"🥒量子资源(徐)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/555电影.json"},
 {"key":"csp_biubiu_4K电影网","name":"🥒4K电影网(徐)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/4K电影网.json"},
@@ -52,12 +52,12 @@
             "key": "豆瓣推荐",
             "name": "豆瓣┃推荐",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://xu211a.github.io/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://tvbox.cainisi.cf/json/js/豆瓣.js"
+            "ext": "https://xu211a.github.io/豆瓣.js"
         },
         {
             "key": "爱迪",
@@ -141,7 +141,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
+            "ext": "https://xu211a.github.io/快看影视.json"
         },
         {
             "key": "Kuaikan",
@@ -173,7 +173,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
+            "ext": "https://xu211a.github.io/乐猪TV.json"
         },
         {
             "key": "饭团影视",
@@ -190,12 +190,12 @@
             "key": "555电影",
             "name": "555┃影视",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://xu211a.github.io/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/js/555电影.js"
+            "ext": "https://xu211a.github.io/555电影.js"
         },
         {
             "key": "csp_Auete",
