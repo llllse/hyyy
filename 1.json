@@ -11,10 +11,9 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"徐占杰","name":"夏木TV(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 
    {
-            "key": "360影视",
+            "key": "夏木TV",
             "name": "360┃官源",
             "type": 3,
             "api": "csp_XBPQ",
@@ -260,7 +259,7 @@
 
  "parses": [
         {
-            "name": "解析聚合",
+            "name": "XZJ-TV",
             "type": 3,
             "url": "Web"
         },
