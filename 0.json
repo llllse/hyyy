@@ -58,16 +58,6 @@
             "changeable": 0,
             "ext": "https://xu211a.github.io/豆瓣.js"
         },
-   {
-      "key": "Qtv",
-      "name": "🐧腾腾┃解析",
-      "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    }, 
         {
             "key": "爱迪",
             "name": "爱迪┃影视",
