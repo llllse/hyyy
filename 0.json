@@ -11,7 +11,18 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"夏木TV","name":"夏木TV(徐)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},     
+        {
+            "key": "乐猪TV",
+            "name": "夏木┃TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://xu211a.github.io/乐猪TV.json"
+        },    
+{"key":"无尽资源","name":"无尽资源(徐)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},     
 {"key":"天空","name":"天空资源(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"光速资源","name":"🥒光速资源(徐)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -161,17 +172,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://tv.libvio.cc/"
-        },
-        {
-            "key": "乐猪TV",
-            "name": "乐猪┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://xu211a.github.io/乐猪TV.json"
         },
         {
             "key": "饭团影视",
