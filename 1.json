@@ -1,16 +1,19 @@
 {
   "spider": "./HeChengChaXiu.jar",
- // "lives": [
- //   {
- //     "name": "live",
- //     "type": 0,
- //     "url": "https://s2.pub/l6",
- //     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
- //   }
- // ],
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [
+          {
+            "key": "乐猪TV",
+            "name": "夏木┃TV-QQ:45658269",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://xu211a.github.io/乐猪TV.json"
+        },        
       {
       "key": "csp_乐猪",
       "name": "夏木提供|内乡TV",
