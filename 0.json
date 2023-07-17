@@ -12,6 +12,17 @@
 
 "sites":[
         {
+      "key": "北极狐",
+      "name": "北极狐┃徐",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "2",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+        {
             "key": "乐猪TV",
             "name": "夏木┃TV",
             "type": 3,
