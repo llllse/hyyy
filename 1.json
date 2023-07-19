@@ -108,6 +108,8 @@
             "changeable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
         },
+
+{"key": "夏木","name": "🚀爱酷直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},        
 {"key":"无尽资源","name":"无尽资源(徐)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},     
 {"key":"天空","name":"天空资源(徐)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},   
 {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
