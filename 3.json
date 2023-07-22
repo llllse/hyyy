@@ -218,6 +218,11 @@
             "type": 0,
             "url": "https://www.8090.la/8090/?url="
         },
+               {
+            "name": "API",
+            "type": 0,
+            "url": "http://api.apii.top/?v="
+        },
         {
             "name": "M3U8",
             "type": 0,
