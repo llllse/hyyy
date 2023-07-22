@@ -112,11 +112,7 @@
         }
   ],
   "parses": [
-        {
-            "name": "播放",
-            "type": 0,
-            "url": "http://www.wpsseo.cn/jiexi/?v="
-        },
+
         {
             "name": "夏木解析",
             "type": 0,
