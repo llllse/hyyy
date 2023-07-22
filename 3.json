@@ -191,7 +191,7 @@
         {
             "name": "播放",
             "type": 0,
-            "url": "http://api.huomiao.cc/api/bfq/?key=rNuOT4Vz6An72BOeSF&url="
+            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "夏木解析",
@@ -202,11 +202,6 @@
             "name": "解析聚合",
             "type": 3,
             "url": "Web"
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "官源解析",
