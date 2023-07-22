@@ -293,6 +293,11 @@
 
  "parses": [
         {
+            "name": "虾米",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
             "name": "夏木解析",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
@@ -301,11 +306,6 @@
             "name": "解析聚合",
             "type": 3,
             "url": "Web"
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "官源解析",
