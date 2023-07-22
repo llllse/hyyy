@@ -109,26 +109,6 @@
             "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
-            "key": "低端影视",
-            "name": "低端┃影视",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "两个BT",
-            "name": "两个BT┃影视",
-            "api": "csp_Bttwoo",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "快看影视",
             "name": "快看┃影视1",
             "type": 3,
@@ -138,16 +118,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://xu211a.github.io/快看影视.json"
-        },
-        {
-            "key": "Kuaikan",
-            "name": "快看┃影视2",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "LIBVIO",
@@ -181,16 +151,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://xu211a.github.io/555电影.js"
-        },
-        {
-            "key": "csp_Auete",
-            "name": "Auete┃影视",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "酷云",
