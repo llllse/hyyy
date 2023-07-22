@@ -27,7 +27,7 @@
 
     {
       "key": "csp_555",
-      "name": "南阳|内乡TV",
+      "name": "555",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -57,7 +57,7 @@
         },
         {
             "key": "快看影视",
-            "name": "快看┃影视1",
+            "name": "快看┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -65,17 +65,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://xu211a.github.io/快看影视.json"
-        },
-        {
-            "key": "LIBVIO",
-            "name": "LIBVIO┃影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "饭团影视",
@@ -100,16 +89,14 @@
 {"key":"csp_biubiu_蓝光影院","name":"🥒蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xu211a.github.io/蓝光影院.json"},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"韩剧资源","name":"韩剧资源(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1},
-{"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"csp_appysv2_玖卿乐播","name":"玖卿乐播(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"}
-  ],
+{"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0}
+ ],
   "parses": [
         {
             "name": "夏木解析",
