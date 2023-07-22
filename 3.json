@@ -11,6 +11,17 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[
+            {
+            "key": "乐猪TV",
+            "name": "夏木┃TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://xu211a.github.io/乐猪TV.json"
+        },   
         {
       "key": "北极狐",
       "name": "北极狐┃徐",
@@ -22,39 +33,6 @@
       "playerType": "2",
       "ext": "https://www.kuin.one/api.php/app/"
     },
-        {
-            "key": "乐猪TV",
-            "name": "夏木┃TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://xu211a.github.io/乐猪TV.json"
-        },    
-   {
-            "key": "360影视",
-            "name": "360┃官源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
-        },
-        {
-            "key": "豆瓣推荐",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "https://xu211a.github.io/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://xu211a.github.io/豆瓣.js"
-        },
         {
             "key": "爱迪",
             "name": "爱迪┃影视",
@@ -78,39 +56,8 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "csp_apple",
-            "name": "小苹果┃影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "七七┃影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "图图┃影视",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        },
-        {
             "key": "快看影视",
-            "name": "快看┃影视1",
+            "name": "快看┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -118,70 +65,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://xu211a.github.io/快看影视.json"
-        },
-        {
-            "key": "LIBVIO",
-            "name": "LIBVIO┃影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://tv.libvio.cc/"
-        },
-        {
-            "key": "饭团影视",
-            "name": "饭团┃影视",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "555电影",
-            "name": "555┃影视",
-            "type": 3,
-            "api": "https://xu211a.github.io/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://xu211a.github.io/555电影.js"
-        },
-        {
-            "key": "酷云",
-            "name": "酷云┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://ys.realdou.cn/api.php/app/",
-            "categories": [
-                "4K电影",
-                "4K电视剧"
-            ]
-        },
-        {
-            "key": "狐狸",
-            "name": "狐狸┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
-
-              
-
-
+        }
 
 #
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
@@ -218,20 +102,10 @@
             "type": 0,
             "url": "https://www.8090.la/8090/?url="
         },
-               {
-            "name": "API",
-            "type": 0,
-            "url": "http://api.apii.top/?v="
-        },
         {
             "name": "M3U8",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "爱酷",
