@@ -4,16 +4,6 @@
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [
           {
-      "key": "csp_555",
-      "name": "TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./555影视2.json"
-    },
-          {
             "key": "乐猪TV",
             "name": "夏木TV",
             "type": 3,
@@ -34,7 +24,16 @@
       "filterable": 1,
       "ext": "./乐猪影视2.json"
     },    
-
+          {
+      "key": "csp_555",
+      "name": "555影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./555影视2.json"
+    },
 
       {
             "key": "csp_apple",
