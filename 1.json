@@ -14,16 +14,7 @@
             "changeable": 1,
             "ext": "https://xu211a.github.io/乐猪TV.json"
         },        
-      {
-      "key": "csp_乐猪",
-      "name": "夏木|内乡TV",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./乐猪影视.json"
-    },    
+
           {
       "key": "csp_555",
       "name": "555影视",
