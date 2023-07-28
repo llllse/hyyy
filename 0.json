@@ -283,9 +283,9 @@
 
  "parses": [
         {
-            "name": "虾米",
+            "name": "夏木",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url="
+            "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
             "name": "夏木解析",
