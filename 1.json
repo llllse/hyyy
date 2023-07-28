@@ -3,6 +3,17 @@
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [
+         {
+            "key": "360影视",
+            "name": "360┃官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+        },
           {
             "key": "乐猪TV",
             "name": "夏木TV",
@@ -424,48 +435,15 @@
 
  ],
   "parses": [
-        {
-            "name": "夏木解析",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
+
         {
             "name": "解析聚合",
             "type": 3,
             "url": "Web"
         },
+
         {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "官源解析",
-            "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url=&url="
-        },
-        {
-            "name": "8090",
-            "type": 0,
-            "url": "https://www.8090.la/8090/?url="
-        },
-        {
-            "name": "M3U8",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "爱酷",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
-            "name": "夜幕",
+            "name": "B方案",
             "type": 0,
             "url": "https://www.yemu.xyz/?url="
         }
