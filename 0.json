@@ -11,7 +11,17 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[
-
+   {
+            "key": "360影视",
+            "name": "夏木┃影视官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+        },
         {
             "key": "乐猪TV",
             "name": "夏木┃TV",
@@ -47,28 +57,8 @@
 {"key":"csp_appysv2_玖卿乐播","name":"玖卿乐播(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_阿里影视","name":"阿里影视(徐)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
 
-   {
-            "key": "360影视",
-            "name": "360┃官源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
-        },
-        {
-            "key": "豆瓣推荐",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "https://xu211a.github.io/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://xu211a.github.io/豆瓣.js"
-        },
+
+
         {
             "key": "爱迪",
             "name": "爱迪┃影视",
