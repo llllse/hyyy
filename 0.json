@@ -287,46 +287,21 @@
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
-        {
-            "name": "夏木解析",
+                {
+            "name": "夜幕",
             "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
+            "url": "https://www.yemu.xyz/?url="
+        }
         {
             "name": "解析聚合",
             "type": 3,
             "url": "Web"
         },
         {
-            "name": "官源解析",
+            "name": "夏木解析",
             "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url=&url="
+            "url": "https://jx.777jiexi.com/player/?url="
         },
-        {
-            "name": "8090",
-            "type": 0,
-            "url": "https://www.8090.la/8090/?url="
-        },
-        {
-            "name": "M3U8",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "爱酷",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
-            "name": "夜幕",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
-        }
     ],
     "flags": [
         "m1905",
