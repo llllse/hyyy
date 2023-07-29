@@ -3,17 +3,12 @@
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [
-         {
-            "key": "360影视",
-            "name": "360┃官源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
-        },
+{ "key": "365影视", "name": "影视TV┃夏木官源", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},
+{"key":"厂长","name":"厂长┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/changzhang.json"},
+{"key":"LIBVIO","name":"LibVio┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
+{"key":"555影视","name":"555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/555.json"},
+{"key": "Free影视","name": "Free┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Free.json"},
+{"key":"csp_Voflix","name":"Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/voflix.json"},
           {
             "key": "乐猪TV",
             "name": "夏木TV",
@@ -25,12 +20,6 @@
             "changeable": 1,
             "ext": "https://xu211a.github.io/乐猪TV.json"
         },        
-{"key":"厂长","name":"厂长┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/changzhang.json"},
-{"key":"LIBVIO","name":"LibVio┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
-{"key":"555影视","name":"555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/555.json"},
-{ "key": "365影视", "name": "365┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},
-{"key": "Free影视","name": "Free┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Free.json"},
-
       {
             "key": "csp_apple",
             "name": "小苹果┃影视",
