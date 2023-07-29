@@ -275,7 +275,12 @@
         {
             "name": "官源",
             "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
+            "url": "https://jx.playerjy.com/?ads=0&url="
+        },
+         {
+            "name": "官源2",
+            "type": 0,
+            "url": "https://www.administratorw.com/video.php?url="
         },
                 {
             "name": "夜幕",
