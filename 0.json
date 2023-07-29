@@ -273,7 +273,7 @@
 
  "parses": [
         {
-            "name": "夏木",
+            "name": "官源",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
@@ -281,7 +281,7 @@
             "name": "夜幕",
             "type": 0,
             "url": "https://www.yemu.xyz/?url="
-        }
+        },
         {
             "name": "解析聚合",
             "type": 3,
@@ -291,7 +291,7 @@
             "name": "夏木解析",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
-        },
+        }
     ],
     "flags": [
         "m1905",
