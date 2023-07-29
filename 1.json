@@ -25,17 +25,11 @@
             "changeable": 1,
             "ext": "https://xu211a.github.io/乐猪TV.json"
         },        
-
-          {
-      "key": "csp_555",
-      "name": "555影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./555影视2.json"
-    },
+{"key":"厂长","name":"厂长┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/changzhang.json"},
+{"key":"LIBVIO","name":"LibVio┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
+{"key":"555影视","name":"555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/555.json"},
+{ "key": "365影视", "name": "365┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zl.yy365.vip/api.php/app/"},
+{"key": "Free影视","name": "Free┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Free.json"},
 
       {
             "key": "csp_apple",
@@ -438,10 +432,15 @@
         {
             "name": "解析",
             "type": 0,
-            "url": "https://www.gszyv.com/m3u8/?url="
+            "url": "https://www.daga.cc/vip1/?url="
+        },
+                {
+            "name": "解析",
+            "type": 0,
+            "url": "https://z1.m1907.top/?eps=0&jx="
         },
         {
-            "name": "解析聚合",
+            "name": "聚合",
             "type": 3,
             "url": "Web"
         }
