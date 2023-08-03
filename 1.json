@@ -9,17 +9,7 @@
 {"key":"555影视","name":"555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/555.json"},
 {"key": "Free影视","name": "Free┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Free.json"},
 {"key":"csp_Voflix","name":"Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/voflix.json"},
-          {
-            "key": "乐猪TV",
-            "name": "夏木TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://xu211a.github.io/乐猪TV.json"
-        },        
+
       {
             "key": "csp_apple",
             "name": "小苹果┃影视",
