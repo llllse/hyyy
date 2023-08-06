@@ -686,7 +686,8 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
-}  "parses": [
+} 
+ "parses": [
         {
             "name": "解析聚合",
             "type": 3,
