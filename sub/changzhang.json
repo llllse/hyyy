@@ -4,9 +4,9 @@
     
     "站名":"厂长资源",
     
-    "主页url":"https://czzy.pro/",
+    "主页url":"https://cz01.fun/",
     
-    "简介":"运输车提醒您请勿相信影片中的广告，以免上当受骗！+<div class=\"yp_context\">&&</div>",
+    "简介":"夏木TV提醒您请勿相信影片中的广告，以免上当受骗！+<div class=\"yp_context\">&&</div>",
     
     "导演":"导演：&&</li>",
     
@@ -65,10 +65,10 @@
     {"key":"area","name":"分类","value":[
     {"v":"","n":"全部分类"},
     {"v":"movie_bt_series/zhanchangtuijian","n":"站长推荐"},
+    {"v":"movie_bt_series/guochanju","n":"热播剧"},
     {"v":"movie_bt_series/dyy","n":"电影"},
+    {"v":"movie_bt_series/dohua","n":"动漫"},
     {"v":"movie_bt_series/dianshiju","n":"电视剧"},
-    {"v":"movie_bt_series/dohua","n":"动画"},
-    {"v":"movie_bt_series/guochanju","n":"国产剧"},
     {"v":"movie_bt_series/mj","n":"美剧"},
     {"v":"movie_bt_series/rj","n":"日剧"},
     {"v":"movie_bt_series/hj","n":"韩剧"},
