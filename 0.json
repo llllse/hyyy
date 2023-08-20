@@ -267,17 +267,12 @@
             "key": "优酷",
             "name": "优酷┃官源",
             "type": 3,
-            "api": "csp_Ytv",
+            "api": "csp_Ktv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },             
-
-
-
-#
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+        }
 ],
 
   "parses": [
