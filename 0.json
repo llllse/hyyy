@@ -262,16 +262,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-            {
-            "key": "优酷",
-            "name": "优酷┃官源",
-            "type": 3,
-            "api": "csp_Ytv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         }
 ],
 
