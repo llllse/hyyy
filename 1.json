@@ -9,7 +9,17 @@
 {"key":"LIBVIO","name":"LIBVIO┃TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
 {"key": "夏木3号","name": "夏木3号Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Free.json"},
 {"key":"夏木2号","name":"夏木2号VOFLIX","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/voflix.json"},
-    
+        {
+            "key": "乐猪TV",
+            "name": "夏木┃1号",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://xu211a.github.io/乐猪TV.json"
+        },       
         {
             "key": "快看影视",
             "name": "快看┃影视",
