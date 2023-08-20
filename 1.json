@@ -2,9 +2,7 @@
   "spider": "./HeChengChaXiu.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
-  "sites": [   
-{"key":"夏木5号","name":"夏木5号飞飞","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/鸭奈飞.js"},       
- {"key":"夏木4号","name":"夏木4号77","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/77.js"},      
+  "sites": [     
 {"key":"夏木1号","name":"电视TV-秒播速看-夏木提供","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/changzhang.json"},        
 {"key":"555影视","name":"555-TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/555.json"},      
 {"key":"LIBVIO","name":"LIBVIO┃TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
