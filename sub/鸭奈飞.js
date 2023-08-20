@@ -5,9 +5,9 @@ muban.mxpro.二级.tabs = '#y-playList&&.module-tab-item'
 var rule = {
     title:'鸭奈飞',
     模板:'mxpro',
-	// host:'https://yanetflix.me',
+	host:'https://yanetflix.me',
 	// host:'https://www.netfly.tv',
-    host:'https://go.tvso.me',
+    //host:'https://go.tvso.me',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"a.r-1471scf:eq(0)&&href");print(src);HOST=src',//网页域名根动态抓取js代码。通过HOST=赋值
     // url:'/vod/show/fyclass--------fypage---.html',
     url:'/vod/show/fyfilter.html',
