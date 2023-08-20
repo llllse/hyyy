@@ -1,6 +1,6 @@
 {
-"spider": "./APPBOX.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
- // "spider": "./HeChengChaXiu.jar",
+
+"spider": "./HeChengChaXiu.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [     
@@ -9,46 +9,7 @@
 {"key":"LIBVIO","name":"LIBVIO┃TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
 {"key": "夏木3号","name": "夏木3号Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Free.json"},
 {"key":"夏木2号","name":"夏木2号VOFLIX","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/voflix.json"},
-         {
-            "key": "爱奇艺",
-            "name": "爱奇艺┃官源",
-            "type": 3,
-            "api": "csp_Itv",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "腾讯",
-            "name": "腾讯┃官源",
-            "type": 3,
-            "api": "csp_Qtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "芒果",
-            "name": "芒果┃官源",
-            "type": 3,
-            "api": "csp_Mtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-          {
-            "key": "优酷",
-            "name": "优酷┃官源",
-            "type": 3,
-            "api": "csp_Ytv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },      
+    
         {
             "key": "快看影视",
             "name": "快看┃影视",
