@@ -1,6 +1,5 @@
 {
-
-
+"spider": "https://xu211a.github.io/APPBOX.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [     
@@ -41,9 +40,6 @@
         "type": 1,
         "id": 21
       }
-
-
-
  ],
   "parses": [
         {
