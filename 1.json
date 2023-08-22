@@ -1,6 +1,6 @@
 {
 
-"spider": "./HeChengChaXiu.jar",
+//"spider": "./HeChengChaXiu.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [     
