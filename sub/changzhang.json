@@ -56,17 +56,17 @@
     
     "分类url":"https://cz01.fun/{cateId}/{class}/{area}/page/{catePg}",
     
-    "分类":"全部&国产剧&动画&豆瓣电影Top250&高分影视&最新电影&热映中&站长推荐&电影&电视剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&日本电影&欧美电影&韩国电影",
+    "分类":"全部&豆瓣电影Top250&高分影视&最新电影&热映中&站长推荐&国产剧&动画&电影&电视剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&日本电影&欧美电影&韩国电影",
     
-    "分类值":"movie_bt&movie_bt_series/guochanju&movie_bt_series/dohua&dbtop250&gaofenyingshi&zuixindianying&reyingzhong&movie_bt_series/zhanchangtuijian&movie_bt_series/dyy&movie_bt_series/dianshiju&movie_bt_series/rj&movie_bt_series/hj&movie_bt_series/mj&movie_bt_series/hwj&movie_bt_series/eluosidianying&movie_bt_series/jianadadianying&movie_bt_series/huayudianying&movie_bt_series/ribendianying&movie_bt_series/meiguodianying&movie_bt_series/hanguodianying",
+    "分类值":"movie_bt&dbtop250&gaofenyingshi&zuixindianying&reyingzhong&movie_bt_series/zhanchangtuijian&movie_bt_series/guochanju&movie_bt_series/dohua&movie_bt_series/dyy&movie_bt_series/dianshiju&movie_bt_series/rj&movie_bt_series/hj&movie_bt_series/mj&movie_bt_series/hwj&movie_bt_series/eluosidianying&movie_bt_series/jianadadianying&movie_bt_series/huayudianying&movie_bt_series/ribendianying&movie_bt_series/meiguodianying&movie_bt_series/hanguodianying",
     
     "筛选":{
     "movie_bt":[
     {"key":"area","name":"分类","value":[
     {"v":"","n":"全部分类"},
-    {"v":"movie_bt_series/guochanju","n":"国产剧"},
-    {"v":"movie_bt_series/dohua","n":"动画"}, 
     {"v":"movie_bt_series/zhanchangtuijian","n":"站长推荐"},
+     {"v":"movie_bt_series/guochanju","n":"国产剧"},
+    {"v":"movie_bt_series/dohua","n":"动画"}, 
     {"v":"movie_bt_series/dyy","n":"电影"},
     {"v":"movie_bt_series/dianshiju","n":"电视剧"},
     {"v":"movie_bt_series/mj","n":"美剧"},
