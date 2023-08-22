@@ -1,9 +1,9 @@
 {
-"spider": "https://xu211a.github.io/HeChengChaXiupm.jar",
+"spider": "https://xu211a.github.io/sub/HeChengChaXiu.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [ 
-{"key":"荐片","name":"🅱️荐片秒播|T追剧","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},             
+{"key":"夏木TV","name":"夏木|徐先生追剧TV","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},             
 {"key":"夏木TV","name":"夏木|TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/明帝影视.json"},
 {"key":"夏木TV","name":"夏木|2号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
 
