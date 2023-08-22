@@ -16,7 +16,37 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://xu211a.github.io/乐猪TV.json"
-        },       
+        },  
+           {
+            "key": "爱奇艺",
+            "name": "爱奇艺",
+            "type": 3,
+            "api": "csp_Itv",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯视频",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "芒果",
+            "name": "芒果TV",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        }          
   {
     "key": "红牛资源",
     "name": "夏木|4号",
