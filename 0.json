@@ -2,12 +2,10 @@
 // 个人观看使用，方便自己，不主动分享给他人  https://xu211a.github.io/0.json 
 
 {
-## spider
   "spider": "https://xu211a.github.io/APPBOX.jar;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
 //"spider":"https://xu211a.github.io/xzj.jar",
 
 
-# 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
 
 "sites":[
@@ -56,7 +54,7 @@
 {"key":"csp_appysv2_天天视频","name":"天天视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_appysv2_玖卿乐播","name":"玖卿乐播(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_阿里影视","name":"阿里影视(徐)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"},
-
+{"key":"夏木TV","name":"夏木|1号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/changzhang.json"},  
 
 
         {
