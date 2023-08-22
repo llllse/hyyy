@@ -3,18 +3,8 @@
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
   "sites": [ 
-        {
-            "key": "夏木TV",
-            "name": "在线TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://xu211a.github.io/乐猪TV.json"
-        },               
-{"key":"夏木TV","name":"夏木|1号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/明帝影视.json"},
+            
+{"key":"夏木TV","name":"夏木|1号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/changzhang.json"},
 {"key":"夏木TV","name":"夏木|2号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},   
   {
     "key": "红牛资源",
