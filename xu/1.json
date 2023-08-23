@@ -4,11 +4,11 @@
 
 "lives":[{"name":"live","type":0,"url":"./hccx/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
-"warningText":"荷城茶秀接口完全免费，切勿付费购买！",
+"warningText":"夏木TV接口完全免费，切勿付费购买！",
 
 "sites":[
 
-{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播 QQ交流群:532127696","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
+{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
 
 {"key":"AliYunPan","name":"🅱️网盘登录|T签到","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
