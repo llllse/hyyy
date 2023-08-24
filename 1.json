@@ -2,10 +2,9 @@
 "spider": "./HeChengChaXiu.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94dTIxMWEuZ2l0aHViLmlvL2xpdmUudHh0"]}]}],
   "warningText": "本APP有夏木提供，请勿随意传播！",
-  "sites": [ 
-{"key":"csp_花猫","name":"夏木影视|追剧TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xu/hccx/花猫影视.json"},      
-{"key":"csp_乐猪","name":"夏木|5号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xu/hccx/乐猪影视.json"},      
-{"key":"csp_徕米","name":"徕米|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xu/hccx/徕米影视.json"},            
+  "sites": [    
+{"key":"csp_乐猪","name":"夏木影视|追剧TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xu/hccx/乐猪影视.json"},      
+{"key":"csp_徕米","name":"夏木|5号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xu/hccx/徕米影视.json"},            
 {"key":"夏木TV","name":"夏木|2号","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},   
     {
       "key": "csp_厂长",
