@@ -113,10 +113,6 @@
 {"key":"csp_量子","name":"🅱️量子资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xu/hccx/量子资源网.json"},
 
 {"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./xu/hccx/Api.js","ext":"./xu/hccx/搜狗影视.js"},
-{"key":"爱奇艺","name":"🚛爱奇艺(官)","type":3,"api":"./sub/drpy2.min.js","ext":"./js/aiqiyi.js"},
-{"key":"优酷","name":"🚛优酷(官)","type":3,"api":"./sub/drpy2.min.js","ext":"./sub/youku.js"},
-{"key":"腾讯","name":"🚛腾讯(官)","type":3,"api":"./sub/drpy2.min.js","ext":"./sub/tengxun.js"},
-{"key":"芒果","name":"🚛芒果(官)","type":3,"api":"./sub/drpy2.min.js","ext":"./sub/mangguo.js"},
 
 {"key":"py_cctv_少儿","name":"📺央视｜少儿","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./xu/hccx/py_央视少儿.py"},
 
