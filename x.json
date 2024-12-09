@@ -24,13 +24,13 @@
             }
         },
                 {
-            "key": "南瓜影视",
-            "name": "南瓜｜APP",
+            "key": "雷鲸",
+            "name": "雷鲸｜4K",
             "type": 3,
-            "api": "csp_Nangua",
+            "api": "csp_Wexleijing",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "changeable": 1,
+            "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;6b0ced74a3d4843881634f5b8c736981"
         },
           {
       "key": "厂长弹幕",
