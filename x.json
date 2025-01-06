@@ -1138,7 +1138,7 @@
             }
         }
     ],
-    "parses": [
+  "parses": [
         {
             "name": "聚合",
             "type": 3,
@@ -1147,7 +1147,7 @@
         {
             "name": "推荐",
             "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "url": "https://api.huohua.live/api/?key=4t5jgBGcQq6a1IirV3&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1195,10 +1195,20 @@
             },
             "type": "1"
         },
-
         {
-            "name": "火花蓝光",
-            "url": "https://api.huohua.live/api/?key=4t5jgBGcQq6a1IirV3&url=",
+            "name": "MX蓝光",
+            "url": "http://122.51.15.119:1234/home/api?type=ys&cc=&uid=52565&key=bfhorsvAEGHMRV3469&url=",
+            "flag": [
+                "MXTV"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "LX蓝光",
+            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
             "flag": [
                 "LXTX"
             ],
