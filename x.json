@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "公众号：下班乐分享",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -1773,7 +1773,7 @@
         {
             "name": "推荐",
             "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "url": "https://api.huohua.live/api/?key=4t5jgBGcQq6a1IirV3&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1802,7 +1802,7 @@
         {
             "name": "优选",
             "type": 1,
-            "url": "http://1.94.221.189:88/algorithm.php?url=",
+            "url": "http://api.84jia.com/home/api?type=ys&uid=1245564&key=bdiqryGHKLPSVX3467&url=",
             "ext": {
                 "flag": [
                     "qq",
