@@ -1195,17 +1195,7 @@
             },
             "type": "1"
         },
-        {
-            "name": "MX夏木",
-            "url": "http://api.84jia.com/home/api?type=ys&uid=1245564&key=bdiqryGHKLPSVX3467&url=",
-            "flag": [
-                "MXTV"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
+
         {
             "name": "火花蓝光",
             "url": "https://api.huohua.live/api/?key=4t5jgBGcQq6a1IirV3&url=",
