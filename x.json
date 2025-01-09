@@ -36,6 +36,69 @@
                 "ratio": 1.597
             }
         },
+         {
+            "key": "木耳采集",
+            "name": "木耳1080",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 20,
+            "categories": [
+                "剧情片",
+                "动作片",
+                "冒险片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "歌舞片",
+                "战争片",
+                "经典片",
+                "动画电影",
+                "网络电影",
+                "其他片",
+                "国产剧",
+                "港剧",
+                "韩剧",
+                "日剧",
+                "泰剧",
+                "台剧",
+                "欧美剧",
+                "新马剧",
+                "其他剧",
+                "国产综艺",
+                "港台综艺",
+                "韩国综艺",
+                "日本综艺",
+                "欧美综艺",
+                "新马泰综艺",
+                "其他综艺",
+                "古装短剧",
+                "虐恋短剧",
+                "逆袭短剧",
+                "神豪短剧",
+                "重生短剧",
+                "复仇短剧",
+                "穿越短剧",
+                "甜宠短剧",
+                "强者短剧",
+                "欧美动漫",
+                "日本动漫",
+                "韩国动漫",
+                "国产动漫",
+                "港台动漫"
+            ],
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            }
+        },
         {
             "key": "影视配置",
             "name": "影视｜配置",
@@ -1791,6 +1854,15 @@
             }
         },
         {
+            "name": "白嫖4K",
+            "type": 1,
+            "url": "http://110.42.36.65:777/api/?key=TF2ATB6hS4qNDP9YQB&url="
+        },{
+            "name": "虾米",
+            "type": 0,
+            "url": " https://jx.xmflv.com/?url="
+        },
+        {
             "name": "优选",
             "type": 1,
             "url": "http://api.84jia.com/home/api?type=ys&uid=1245564&key=bdiqryGHKLPSVX3467&url=",
@@ -1900,73 +1972,6 @@
                     "皮皮虾4K"
                 ]
             }
-        },
-        {
-            "name": "无双",
-            "type": 0,
-            "url": " http://103.117.123.193:1980/players/?url=",
-            "ext": {
-                "flag": [
-                    "mgtv",
-                    "芒果",
-                    "RY",
-                    "VIP线路"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-            "name": "线路1",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "线路2",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "线路3",
-            "type": 0,
-            "url": "https://jx.aidouer.net/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "referer": "https://jiejie.uk/"
-                }
-            }
-        },
-        {
-            "name": "线路4",
-            "type": 0,
-            "url": "https://www.8090g.cn/?url="
-        },
-        {
-            "name": "线路5",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
-        {
-            "name": "线路6",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "线路7",
-            "type": 0,
-            "url": "https://www.ckplayer.vip/jiexi/?url="
         }
     ],
     "rules": [
