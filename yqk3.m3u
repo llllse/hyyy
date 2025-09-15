@@ -5,7 +5,6 @@
 
 
 #EXTM3U
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="咪咕" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
 https://migu.188766.xyz/?migutoken=bd2683e9b9910eb33c722a79d4ec6c03&id=CCTV1&type=yy
 #EXTINF:-1 group-title="咪咕" tvg-logo="",CCTV2
