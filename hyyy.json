@@ -4,7 +4,7 @@
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "lives": [
 
-
+{"name":"【洪宇咪咕测试】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/gxhgp/n1/f9c7edb85ea0151bdf58d8ee9c5743c27b5e2c0d/by.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
 {"name":"【洪宇星河测试】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/sky6698/sky/6f5d88dec4d1022dcc61d3bc53234b251b8ac9d1/xh.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},	
 {"name":"【洪宇墙里墙外1】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/bhzb4.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
 {"name":"【洪宇墙里墙外】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/tv.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
@@ -2455,6 +2455,7 @@
     ]
 
 }
+
 
 
 
