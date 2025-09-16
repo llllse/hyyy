@@ -14,8 +14,8 @@ https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/hyyy/refs/h
 #本地127(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
 http://127.0.0.1:9978/file/Download/yu/yu/yu.txt
 
-#ZB(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
-https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/zby/refs/heads/main/tv1.txt
+#ZBY(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
+https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/ZBY/refs/heads/main/tv1.txt
 
 
 #ZM(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
