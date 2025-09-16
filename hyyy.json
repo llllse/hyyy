@@ -220,7 +220,7 @@
         "jar":"./yu/0924.jar",
         "name":"🎧洪宇┃网络《YT2》",
         "type":3,"playerType":2,
-        "api":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/lf_live8_min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/llllse/hyyy/refs/heads/main/yu/YT2.txt"}
+        "api":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/tvbox/js/lf_live8_min.js","ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/llllse/hyyy/refs/heads/main/yu/YT2.txt"},
 
 
 
@@ -2518,6 +2518,7 @@
     ]
 
 }
+
 
 
 
