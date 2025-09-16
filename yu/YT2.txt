@@ -5,17 +5,21 @@
 
 
 
-#llllse/hyyy/yu(m3u)(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
+#llllse/hyyy/yu/m3u)(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
 https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/hyyy/refs/heads/main/yu/yu.m3u
 
-#llllse/hyyy/yu(txt)(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
+#llllse/hyyy/yu/txt)(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
 https://daili.korice.eu.org/https://raw.githubusercontent.com/llllse/hyyy/refs/heads/main/yu/yu.txt
 
 #本地127(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
 http://127.0.0.1:9978/file/Download/yu/yu/yu.txt
 
-#250326(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
-https://daili.korice.eu.org/https://raw.githubusercontent.com/suxuang/myIPTV/28f567e9e450ba0c552514b2b62742c137114b4f/ipv6.m3u
+#ZB(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
+https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/zb/refs/heads/main/tv1.txt
+
+
+#ZM(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
+https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/zm/refs/heads/main/zby.txt
 
 
 #<🌾mut8>lPV4<🌾>(https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png)
